@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImplementandoSwagger11</name>
+    </assembly>
+    <members>
+        <member name="M:ImplementandoSwagger11.Controllers.WeatherForecastController.Get">
+            <summary>
+            Descricao de rota para implementandoswagger11
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

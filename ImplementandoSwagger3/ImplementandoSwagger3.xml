@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImplementandoSwagger3</name>
+    </assembly>
+    <members>
+        <member name="M:ImplementandoSwagger3.Controllers.WeatherForecastController.Get">
+            <summary>
+            Este campo informa sobre a rota/método atual
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
